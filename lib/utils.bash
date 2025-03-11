@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for vulture.
-GH_REPO="https://github.com/hasansezertasan/vulture"
+GH_REPO="https://github.com/jendrikseipp/vulture"
 TOOL_NAME="vulture"
 TOOL_TEST="vulture --version"
 
